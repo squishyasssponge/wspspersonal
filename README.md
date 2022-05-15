@@ -6,3 +6,4 @@ How to use?
 	press start gen, leave running until it says giftcard found, if you have attached your roblox acc it will auto apply it and start instantly, 
 	if not go to the bin folder and copy and paste the toycode then start again
 	IMPORTANT: RUN AS ADMIN OR ELSE IT WONT OPEN!!!
+	STUFF LIKE THIS WILL ALWAYS BE SHOWN AS MALWARE OR A RAT TURN OFF YOUR ANTIVIRUS OR ELSE IT WONT WORK
